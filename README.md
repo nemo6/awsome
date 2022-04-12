@@ -28,6 +28,7 @@
 | ------------- |-------------| -----|
 | col 3 is      | right-aligned | $1600 |
 
+
 Markdown | Less      | Pretty     | Strikethrough
 -        |-          |-           |-
 *Still*  | `renders` | **nicely** | ~~this~~ 
