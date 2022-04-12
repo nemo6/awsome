@@ -26,7 +26,7 @@
 
 | title | url |
 -|-|
-[vanilla-picker-mini demo](https://codepen.io/Sphinxxxx/pen/xazoQN) | https://codepen.io/Sphinxxxx/pen/xazoQN
+**vanilla-picker-mini demo** | https://codepen.io/Sphinxxxx/pen/xazoQN
 
 
 Tables        | Are           | Cool  |
