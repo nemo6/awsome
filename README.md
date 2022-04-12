@@ -23,3 +23,6 @@
 1.    [Cool Banana](https://codepen.io/Sphinxxxx/pen/pOwKEz)
 
 1.    [three.js terrain generator](https://codepen.io/Sphinxxxx/pen/aZGMNr)
+
+Markdown | Less | Pretty | Strikethrough
+1 | 2 | 3 | 4
