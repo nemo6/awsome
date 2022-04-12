@@ -25,12 +25,13 @@
 1.    [three.js terrain generator](https://codepen.io/Sphinxxxx/pen/aZGMNr)
 
 | title | url |
+-|-|
 [vanilla-picker-mini demo](https://codepen.io/Sphinxxxx/pen/xazoQN) | https://codepen.io/Sphinxxxx/pen/xazoQN
 
 
-| Tables        | Are           | Cool  |
-| ------------- |-------------| -----|
-| col 3 is      | right-aligned | $1600 |
+Tables        | Are           | Cool  |
+------------- |-------------| -----|
+col 3 is      | right-aligned | $1600 |
 
 
 Markdown | Less      | Pretty     | Strikethrough
