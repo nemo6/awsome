@@ -24,5 +24,5 @@
 
 1.    [three.js terrain generator](https://codepen.io/Sphinxxxx/pen/aZGMNr)
 
-Markdown | Less | Pretty | Strikethrough
-1 | 2 | 3 | 4
+| Tables        | Are           | Cool  |
+| col 3 is      | right-aligned | $1600 |
