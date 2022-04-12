@@ -25,4 +25,5 @@
 1.    [three.js terrain generator](https://codepen.io/Sphinxxxx/pen/aZGMNr)
 
 | Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
