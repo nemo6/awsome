@@ -30,6 +30,6 @@
 
 
 Markdown | Less      | Pretty     | Strikethrough
--        | -         | -          | -
+---        | ---         | ---          | ---
 *Still*  | `renders` | **nicely** | ~~this~~ 
 1        | 2         | 3          | 4
