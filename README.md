@@ -33,3 +33,9 @@ Markdown | Less      | Pretty     | Strikethrough
 --        | --         | --          | --
 *Still*  | `renders` | **nicely** | ~~this~~ 
 1        | 2         | 3          | 4
+
+
+Markdown | Less      | Pretty     | Strikethrough
+-|-|-|-
+*Still*  | `renders` | **nicely** | ~~this~~ 
+1        | 2         | 3          | 4
