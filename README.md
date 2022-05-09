@@ -78,6 +78,26 @@ Gradient|https://codepen.io/osublake/pen/WxygzW
 # Codepen 3
 Name | Link
 -|-
+https://codepen.io/cfjedimaster/pen/qoYbyW| localstorage, complex
+https://codepen.io/anon/pen/VKxRoE?editors=1100| Flexbox
+https://codepen.io/irenetomaini/pen/KeVjBo| Search a word with Regex
+https://codepen.io/anon/pen/GZeNVK| A Pen by Captain Anonymous
+https://codepen.io/MarcoGuglielmelli/pen/MmJrEw| Number Guessing Game
+https://codepen.io/AntoineMorlet/pen/MXpbxL| Timer
+https://codepen.io/Tcip/pen/BNKjeN| Simple Javascript Clock
+https://codepen.io/shaneapen/pen/aQBMXe| Latest YouTube Video Embed (Multiple channels)
+https://codepen.io/rachelandrew/pen/QbewmG| Grid by Example 18: Grid auto-placement column
+https://codepen.io/dudleystorey/pen/zNxBPG| Link Preview Prototype
+https://codepen.io/yuanchuan/pen/xNdQJP| -webkit-box-reflect Invaders (click to update)
+https://codepen.io/seanstopnik/pen/nKjmPX| CSS Range Slider
+https://codepen.io/agrayson/pen/YwVwwj| Responsive square grid in pure CSS
+https://codepen.io/rstacruz/pen/YNMKOq| Styled file input
+https://codepen.io/nakome/pen/vmKwQg| Upload crop & save
+
+
+# Codepen 4
+Name | Link
+-|-
 Lazy Load Images|https://codepen.io/derekmorash/pen/NjBvdX
 Masked Text Effect|https://codepen.io/thetwistedtaste/pen/MWOGjb
 Auto-Height Expanding Div|https://codepen.io/marshallformula/pen/qPvWBL
@@ -100,7 +120,7 @@ Support Starter Pen|https://codepen.io/osublake/pen/GyqYyZ
 Smooth Page Scroll|https://codepen.io/osublake/pen/QqPqbN
 Movie List|https://codepen.io/osublake/pen/yMQpEN
 
-# Codepen 4
+# Codepen 5
 Name | Link
 -|-
 Neural Drum Machine|https://codepen.io/teropa/pen/JLjXGK
@@ -115,7 +135,7 @@ PixiJS Particle Trail|https://codepen.io/osublake/pen/MrjqMJ
 Multiple Filters|https://codepen.io/osublake/pen/aLgZJQ
 Connect Words|https://codepen.io/osublake/pen/LzzjLw
 
-# Codepen 5
+# Codepen 6
 Name | Link
 -|-
 Draggable Resizable Div|https://codepen.io/lukejacksonn/pen/amXgQj
@@ -129,7 +149,7 @@ Get SVG Bounding Box|https://codepen.io/osublake/pen/JMvVyo
 Resize, Drag, Snap|https://codepen.io/osublake/pen/JKQzyx
 Color hit detection|https://codepen.io/osublake/pen/YypwzL
 
-# Codepen 6
+# Codepen 7
 Name | Link
 -|-
 CodePen - pearl|https://codepen.io/ycw/full/OJyBBNo
