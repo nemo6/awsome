@@ -172,7 +172,7 @@ three.js point cloud example|https://codepen.io/Sphinxxxx/pen/zwqvmP
 Pixijs.v4.5.1 Shader Example|https://codepen.io/osublake/pen/LLQwBK
 Color Changin'|https://codepen.io/osublake/pen/aZevjX
 Circular Distribution 1|https://codepen.io/osublake/pen/EyRpXM
-<div> or <img>|https://codepen.io/osublake/pen/PNVeVx
+\<div\> or \<img\>|https://codepen.io/osublake/pen/PNVeVx
 Venn diagram animation|https://codepen.io/brownerd/pen/qdPydB
 Orbital Css|https://codepen.io/willpaige/pen/nobaQK
 CreateJS: Ghost Donut|https://codepen.io/createjs/pen/VrXzYN
