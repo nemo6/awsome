@@ -78,21 +78,21 @@ Gradient|https://codepen.io/osublake/pen/WxygzW
 # Codepen 3
 Name | Link
 -|-
-https://codepen.io/cfjedimaster/pen/qoYbyW| localstorage, complex
-https://codepen.io/anon/pen/VKxRoE?editors=1100| Flexbox
-https://codepen.io/irenetomaini/pen/KeVjBo| Search a word with Regex
-https://codepen.io/anon/pen/GZeNVK| A Pen by Captain Anonymous
-https://codepen.io/MarcoGuglielmelli/pen/MmJrEw| Number Guessing Game
-https://codepen.io/AntoineMorlet/pen/MXpbxL| Timer
-https://codepen.io/Tcip/pen/BNKjeN| Simple Javascript Clock
-https://codepen.io/shaneapen/pen/aQBMXe| Latest YouTube Video Embed (Multiple channels)
-https://codepen.io/rachelandrew/pen/QbewmG| Grid by Example 18: Grid auto-placement column
-https://codepen.io/dudleystorey/pen/zNxBPG| Link Preview Prototype
-https://codepen.io/yuanchuan/pen/xNdQJP| -webkit-box-reflect Invaders (click to update)
-https://codepen.io/seanstopnik/pen/nKjmPX| CSS Range Slider
-https://codepen.io/agrayson/pen/YwVwwj| Responsive square grid in pure CSS
-https://codepen.io/rstacruz/pen/YNMKOq| Styled file input
-https://codepen.io/nakome/pen/vmKwQg| Upload crop & save
+localstorage, complex|https://codepen.io/cfjedimaster/pen/qoYbyW
+Flexbox|https://codepen.io/anon/pen/VKxRoE?editors=1100|
+Search a word with Regex|https://codepen.io/irenetomaini/pen/KeVjBo
+A Pen by Captain Anonymous|https://codepen.io/anon/pen/GZeNVK
+Number Guessing Game|https://codepen.io/MarcoGuglielmelli/pen/MmJrEw|
+Timer|https://codepen.io/AntoineMorlet/pen/MXpbxL
+Simple Javascript Clock|https://codepen.io/Tcip/pen/BNKjeN
+Latest YouTube Video Embed (Multiple channels)|https://codepen.io/shaneapen/pen/aQBMXe
+Grid by Example 18: Grid auto-placement column|https://codepen.io/rachelandrew/pen/QbewmG
+Link Preview Prototype|https://codepen.io/dudleystorey/pen/zNxBPG
+-webkit-box-reflect Invaders (click to update)|https://codepen.io/yuanchuan/pen/xNdQJP
+CSS Range Slider|https://codepen.io/seanstopnik/pen/nKjmPX
+Responsive square grid in pure CSS|https://codepen.io/agrayson/pen/YwVwwj
+Styled file input|https://codepen.io/rstacruz/pen/YNMKOq
+Upload crop & save|https://codepen.io/nakome/pen/vmKwQg
 
 
 # Codepen 4
