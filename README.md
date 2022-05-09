@@ -74,3 +74,28 @@ SVG Shape Overlays|https://codepen.io/osublake/pen/BYwgBg
 Canvas isPointInPath|https://codepen.io/osublake/pen/dzYzab
 SVG Squigglevision|https://codepen.io/osublake/pen/WjMZJE
 Gradient|https://codepen.io/osublake/pen/WxygzW
+
+# Codepen 3
+Name | Link
+-|-
+Lazy Load Images|https://codepen.io/derekmorash/pen/NjBvdX
+Masked Text Effect|https://codepen.io/thetwistedtaste/pen/MWOGjb
+Auto-Height Expanding Div|https://codepen.io/marshallformula/pen/qPvWBL
+Responsive login form with Flexbox|https://codepen.io/Katiae/pen/RgKOPv
+A Pen by Alex Carpenter|https://codepen.io/alexcarpenter/pen/JBoBLZ
+Scroll Feed Load|https://codepen.io/gab5a430/pen/oVBKJe
+Touch Slider with HammerJS|https://codepen.io/dangodev/pen/bpjrRg
+Swipe to Dismiss with Hammer and Velocity|https://codepen.io/KenPowers/pen/emrmWW
+Selector Like The iOS Alarm Slider|https://codepen.io/dsomel21/pen/eRdLao
+Quill Diff|https://codepen.io/percipient24/pen/eEBOjG
+Responsive Lazy Load Images Oldschool|https://codepen.io/FilipVitas/pen/pQBYQd
+CSS Card Hover Effects 2|https://codepen.io/Akshay_Rajput/pen/eYYpJMY
+FilePond Multiple File Upload|https://codepen.io/rikschennink/pen/WXavEx
+Custom Right-Click (Context) Menu|https://codepen.io/knyttneve/pen/YzxEBew
+vue.js - color gradient generator|https://codepen.io/ClementRoche/pen/papMew
+Draggable Picker|https://codepen.io/osublake/pen/vYxNqwP
+Arrow Following Mouse|https://codepen.io/osublake/pen/RQxOxw
+Start of Node Editor|https://codepen.io/osublake/pen/bLdeMv
+Support Starter Pen|https://codepen.io/osublake/pen/GyqYyZ
+Smooth Page Scroll|https://codepen.io/osublake/pen/QqPqbN
+Movie List|https://codepen.io/osublake/pen/yMQpEN
