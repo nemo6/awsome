@@ -99,3 +99,82 @@ Start of Node Editor|https://codepen.io/osublake/pen/bLdeMv
 Support Starter Pen|https://codepen.io/osublake/pen/GyqYyZ
 Smooth Page Scroll|https://codepen.io/osublake/pen/QqPqbN
 Movie List|https://codepen.io/osublake/pen/yMQpEN
+
+# Codepen 4
+Name | Link
+-|-
+Neural Drum Machine|https://codepen.io/teropa/pen/JLjXGK
+The Bluesman - You Can Play The Blues (Web Audio API)|https://codepen.io/gregh/pen/zNzvOm
+JS Audio Visualizer|https://codepen.io/nfj525/pen/rVBaab
+Canvas Audio Visualizer|https://codepen.io/ClementRoche/pen/dgwavz
+2D Audio Visualizer|https://codepen.io/mnmxmx/pen/bRamej
+Audio Visualizer based on Three.js|https://codepen.io/prakhar625/pen/zddKRj
+Step|https://codepen.io/woodwoerk/pen/rxrLqa
+JS Audio Visualizer Nicer|https://codepen.io/Nurutomo2/pen/bKJvmZ
+PixiJS Particle Trail|https://codepen.io/osublake/pen/MrjqMJ
+Multiple Filters|https://codepen.io/osublake/pen/aLgZJQ
+Connect Words|https://codepen.io/osublake/pen/LzzjLw
+
+# Codepen 5
+Name | Link
+-|-
+Draggable Resizable Div|https://codepen.io/lukejacksonn/pen/amXgQj
+Right-click context menu|https://codepen.io/zystvan/pen/EadmNW
+Drag and Drop HTML5|https://codepen.io/acauamontiel/pen/NPBWyM
+Drag with Hammer.js example|https://codepen.io/anzk/pen/MPaOpL
+Tooltips for Range Inputs|https://codepen.io/jeffshaver/pen/wvyPmm
+Touch swipe detection in pure JavaScript|https://codepen.io/ganmahmud/pen/RaoKZa
+Polygon Collision Detection|https://codepen.io/osublake/pen/eMvZmo
+Get SVG Bounding Box|https://codepen.io/osublake/pen/JMvVyo
+Resize, Drag, Snap|https://codepen.io/osublake/pen/JKQzyx
+Color hit detection|https://codepen.io/osublake/pen/YypwzL
+
+# Codepen 6
+Name | Link
+-|-
+CodePen - pearl|https://codepen.io/ycw/full/OJyBBNo
+Three.js/WebGL: Interactive Perlin Noise Landscape Visualisation|https://codepen.io/sebastianlenton/pen/KKVGQxy
+Prim’s Algorithm Background|https://codepen.io/shauchenka/pen/PPdwrQ
+GLSL: Primordial Soup|https://codepen.io/shubniggurath/pen/NXGbBo
+Gridspace (wait for it... here comes dat boi)|https://codepen.io/halvves/pen/RRoWyJ
+🐍 Snake Wave|https://codepen.io/iondrimba/pen/GXLLOd
+Deforming|https://codepen.io/sciecode/pen/WgaRwN
+Playing with particles and transparencies|https://codepen.io/luigimannoni/pen/NPgGpX
+Moving Cubes with three.js|https://codepen.io/Ivolvy/pen/VvLRmO
+360° panorama wireframe with Three.js|https://codepen.io/ykob/pen/EjmMvW
+Particles - three.js & anime.js|https://codepen.io/russellk/pen/PjKVxw
+Three.JS dynamic blob with Perlin noise|https://codepen.io/farisk/pen/vrbzwL
+three.js Points anti-gravity is applied ver2|https://codepen.io/ykob/pen/avEpdd
+particles moving to the spherical|https://codepen.io/ykob/pen/bdEQdv
+[three.js]postprocessing_UnrealBloomPass2|https://codepen.io/ma_suwa/pen/Bgpwdj
+Gravity simulation - three.js|https://codepen.io/russellk/pen/EXeexa
+test sphere coordinate calculation|https://codepen.io/tksiiii/pen/pKeoXj
+Ball|https://codepen.io/rileyjshaw/pen/nKbPVp
+three.js + p5js integration|https://codepen.io/velenoise/pen/wabZva
+Rotate object around point, three.js|https://codepen.io/vidark/pen/oWZEQJ
+Three.js Boids 3D|https://codepen.io/tksiiii/pen/jzBZdo
+Spinning Ball of Crystal|https://codepen.io/algcifaldi/pen/rVyRGm
+snow particle three.js PointsMaterial|https://codepen.io/tksiiii/pen/MRjWzv
+particles moving to the spherical ver2|https://codepen.io/ykob/pen/qdbwKK
+three.js - flame shader|https://codepen.io/ClementRoche/pen/VJpOWG
+Stargazing|https://codepen.io/dope/pen/yZwbMd
+Three.js Smoke Cloud|https://codepen.io/seanseansean/pen/ReMvxV
+Bubbles! Er, Atoms! Errr, SPHERES!|https://codepen.io/teddarcuri/pen/BoaNmz
+three D Planet|https://codepen.io/arcs/pen/XdyrjB
+Dreaming of Jupiter - Three.js|https://codepen.io/isladjan/pen/zYqLxeG
+ThreeJS plane wave|https://codepen.io/Fallenstedt/pen/XzOXMO
+3D cube loop - #threejsday1|https://codepen.io/BenjaminRochez/pen/ZJLPgj
+Surface et Sphere Three.js - Floor and Sphere Three.js|https://codepen.io/atouine/pen/JJeqKE
+Room|https://codepen.io/Sphinxxxx/pen/JmxZyR
+glTF Hand Animation|https://codepen.io/Sphinxxxx/pen/vRBxLG
+three.js terrain generator|https://codepen.io/Sphinxxxx/pen/aZGMNr
+three.js point cloud example|https://codepen.io/Sphinxxxx/pen/zwqvmP
+Pixijs.v4.5.1 Shader Example|https://codepen.io/osublake/pen/LLQwBK
+Color Changin'|https://codepen.io/osublake/pen/aZevjX
+Circular Distribution 1|https://codepen.io/osublake/pen/EyRpXM
+<div> or <img>|https://codepen.io/osublake/pen/PNVeVx
+Venn diagram animation|https://codepen.io/brownerd/pen/qdPydB
+Orbital Css|https://codepen.io/willpaige/pen/nobaQK
+CreateJS: Ghost Donut|https://codepen.io/createjs/pen/VrXzYN
+Voronoi|https://codepen.io/neave/pen/bGdwGBM
+Space globe - Three.js|https://codepen.io/isladjan/pen/bGpjZwN
