@@ -7,9 +7,9 @@ CodePen Home GLSL Festival | https://codepen.io/rafaelbeckel/pen/VwYyggB
 Torus Tunnel | https://codepen.io/Mombasa/pen/kBdjqa
 Rain Drops | https://codepen.io/iondrimba/pen/MxbmGr
 
-# Codepen 2
-Name | Link
--|-
+# Codepen 2 ( Animation 2D )
+Name | Link | tag
+-|-|-
 Steps Animation|https://codepen.io/simurai/pen/krWaKX
 simple animation control with GreenSock|https://codepen.io/chalupagrande/pen/RoRzaV
 Sun Rise Moon Rise|https://codepen.io/renduh/pen/pKQYZw
@@ -47,7 +47,7 @@ Tearable Cloth v2|https://codepen.io/Sphinxxxx/pen/PEqOYg
 scale and rotate example|https://codepen.io/Sphinxxxx/pen/EbgooY
 drag-tracker demo (dev)|https://codepen.io/Sphinxxxx/pen/XevmzY
 Drag Rotate|https://codepen.io/Sphinxxxx/pen/XaOBOG
-solar eclipse|https://codepen.io/Sphinxxxx/pen/RZJqgq
+solar eclipse|https://codepen.io/Sphinxxxx/pen/RZJqgq | css only
 Only CSS: Solar Flare|https://codepen.io/Sphinxxxx/pen/qXVaNX
 SVG path editor|https://codepen.io/Sphinxxxx/pen/NWgKLNa
 Shape subdivision|https://codepen.io/Sphinxxxx/pen/pKddee
