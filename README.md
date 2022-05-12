@@ -54,7 +54,7 @@ Shape subdivision | https://codepen.io/Sphinxxxx/pen/pKddee |
 d3 force grid | https://codepen.io/Sphinxxxx/pen/rKzEOd |
 Polygon centroid | https://codepen.io/Sphinxxxx/pen/MWvpjjd |
 SVG arc path UI | https://codepen.io/Sphinxxxx/pen/jBNegq |
-Clock \ | \| clocks \?|https://codepen.io/Sphinxxxx/pen/dXwboG |
+Clock \|\| clocks \?|https://codepen.io/Sphinxxxx/pen/dXwboG |
 Draw-A-Sprite | https://codepen.io/Sphinxxxx/pen/LNPGWx |
 SVG Path Builder | https://codepen.io/Sphinxxxx/pen/gPBGwE |
 Cube Clock | https://codepen.io/Sphinxxxx/pen/eJVvrQ |
