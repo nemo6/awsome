@@ -67,7 +67,7 @@ Canvas isPointInPath | https://codepen.io/osublake/pen/dzYzab |
 SVG Squigglevision | https://codepen.io/osublake/pen/WjMZJE |
 Gradient | https://codepen.io/osublake/pen/WxygzW |
 
-# Codepen 3
+# Codepen 3 ( Widget JS )
 Name | Link
 -|-
 localstorage, complex|https://codepen.io/cfjedimaster/pen/qoYbyW
@@ -87,7 +87,7 @@ Styled file input|https://codepen.io/rstacruz/pen/YNMKOq
 Upload crop & save|https://codepen.io/nakome/pen/vmKwQg
 
 
-# Codepen 4
+# Codepen 4 ( Interactive design )
 Name | Link
 -|-
 Lazy Load Images|https://codepen.io/derekmorash/pen/NjBvdX
@@ -112,7 +112,7 @@ Support Starter Pen|https://codepen.io/osublake/pen/GyqYyZ
 Smooth Page Scroll|https://codepen.io/osublake/pen/QqPqbN
 Movie List|https://codepen.io/osublake/pen/yMQpEN
 
-# Codepen 5
+# Codepen 5 ( Advanced javascript )
 Name | Link
 -|-
 Neural Drum Machine|https://codepen.io/teropa/pen/JLjXGK
@@ -127,7 +127,7 @@ PixiJS Particle Trail|https://codepen.io/osublake/pen/MrjqMJ
 Multiple Filters|https://codepen.io/osublake/pen/aLgZJQ
 Connect Words|https://codepen.io/osublake/pen/LzzjLw
 
-# Codepen 6
+# Codepen 6 ( Interactive tools )
 Name | Link
 -|-
 Draggable Resizable Div|https://codepen.io/lukejacksonn/pen/amXgQj
@@ -141,7 +141,7 @@ Get SVG Bounding Box|https://codepen.io/osublake/pen/JMvVyo
 Resize, Drag, Snap|https://codepen.io/osublake/pen/JKQzyx
 Color hit detection|https://codepen.io/osublake/pen/YypwzL
 
-# Codepen 7
+# Codepen 7 ( Three.js and other stuff )
 Name | Link
 -|-
 CodePen - pearl|https://codepen.io/ycw/full/OJyBBNo
