@@ -5,6 +5,7 @@ vanilla-picker-mini demo | https://codepen.io/Sphinxxxx/pen/xazoQN
 Cool Banana | https://codepen.io/Sphinxxxx/pen/pOwKEz
 CodePen Home GLSL Festival | https://codepen.io/rafaelbeckel/pen/VwYyggB
 Torus Tunnel | https://codepen.io/Mombasa/pen/kBdjqa
+Rain Drops | https://codepen.io/iondrimba/pen/MxbmGr
 
 # Codepen 2
 Name | Link
